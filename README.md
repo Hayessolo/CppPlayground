@@ -27,3 +27,17 @@ Once cloned, you can navigate into the directories and review the code. If you f
 
 Contributions
 While this repository primarily documents my learning journey, I'm open to collaboration! If you'd like to contribute by suggesting improvements, adding more examples, or correcting errors, please follow the standard GitHub workflow:
+Fork the repository.
+Create a new branch for your work: git checkout -b feature/new-feature
+Make your changes and commit them: git commit -m "Add a new feature"
+Push your changes to your fork: git push origin feature/new-feature
+Create a pull request detailing your changes.
+
+
+License
+This repository is licensed under the MIT License.
+
+Contact
+If you have any questions or want to connect, you can find me on GitHub or reach out via email at solohayes6@email.com.
+
+Happy coding!
